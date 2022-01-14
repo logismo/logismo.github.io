@@ -1,2 +1,2 @@
 ## Logismo
-Personal blog
+[Personal blog: logismo.github.io](https://logismo.github.io)
